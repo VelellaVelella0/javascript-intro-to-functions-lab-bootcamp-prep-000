@@ -17,6 +17,7 @@ var mixedCase = 'Hi there!'
 mixedCase.toLowerCase() === mixedCase
 mixedCase.toUpperCase() === mixedCase
 
+<<<<<<< HEAD
 function whisper(string) {
  return string
   }
@@ -36,3 +37,6 @@ function sayHiToGrandma(string) {
 function sayHiToGrandma(string) {
   return string.toLowerCase()
 }
+=======
+describe ('whisper(string)'), lowercase
+>>>>>>> fb630d131b5cce80a4253ae1a406a01ce6bb2c8c
